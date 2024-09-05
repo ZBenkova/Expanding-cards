@@ -112,3 +112,35 @@
 // console.log(time(6))
 
 // ------------------------------------------------------------------------------------------------
+//PERFORMING A TASK
+
+// const square = (number) => {
+//     return number * number;
+// }
+// let number = square(2);
+// console.log(number)
+
+//JINAK:
+
+// const square = (number) => {
+//     return number * number;
+// }
+
+// console.log(square(2))
+
+
+//CVICENI - NAHODNA CISLA
+
+//document.body.innerHTML = Math.random();
+
+//CVICENI - PREVOD MENY
+
+// const wageInEur = 20
+// const rate = 24.55
+// const wageInCzk = Math.round(wageInEur * rate)
+
+// document.body.innerHTML = '<h1>Mzda v korunach: ' + wageInCzk + ' Kc</h1>';
+
+//CVICENI - HOD KOSTKOU
+
+
