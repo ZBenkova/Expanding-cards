@@ -143,4 +143,25 @@
 
 //CVICENI - HOD KOSTKOU
 
+// let result = 1 + Math.floor(Math.random() * 6)
+
+// document.body.innerHTML += result
+
+//CVICENI - PRIJEM DIVADLA /////DORESIT////////
+
+// const prijem = (priceOfTicket, numberOfVisitors, numberOfShows) => {
+//     let result = priceOfTicket * numberOfShows * numberOfVisitors
+//     return result
+// }
+
+// let vysledek = prijem(12, 174, 15)
+
+// document.body.innerHTML = vysledek
+
+
+
+
+
+
+
 
